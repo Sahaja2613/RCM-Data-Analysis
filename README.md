@@ -5,7 +5,7 @@
 
 Develop a comprehensive Revenue Cycle Management analytics solution to optimize Medicare payment processes, reduce revenue leakage, and enhance operational efficiency across a $839M+ healthcare revenue portfolio. This project demonstrates end-to-end RCM analytics capabilities including contract performance analysis, pricing optimization, denial management, and provider network strategy.
 
-##Code: RCM_Data_Analysis.ipynb
+## Code: RCM_Data_Analysis.ipynb
 
 ## Description:
 
