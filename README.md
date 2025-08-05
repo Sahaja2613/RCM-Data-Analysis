@@ -5,7 +5,8 @@
 
 Develop a comprehensive Revenue Cycle Management analytics solution to optimize Medicare payment processes, reduce revenue leakage, and enhance operational efficiency across a $839M+ healthcare revenue portfolio. This project demonstrates end-to-end RCM analytics capabilities including contract performance analysis, pricing optimization, denial management, and provider network strategy.
 
-## Code: RCM_Data_Analysis.ipynb
+## Code: [RCM_Data_Analysis.ipynb](https://github.com/Sahaja2613/RCM-Data-Analysis/blob/main/RCM_Data_Analysis.ipynb)
+## Tableau Visualization: [RCM_Analysis](https://public.tableau.com/app/profile/sahaja.thumma/viz/RCMAnalysis/MedicareRCMPerformanceAnalysis#1)
 
 ## Description:
 
